@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Frag 1"
+        android:id="@+id/menu_frag1"
+        android:icon="@android:drawable/ic_dialog_map"/>
+
+    <item android:title="Frag 2"
+        android:id="@+id/menu_frag2"
+        android:icon="@android:drawable/ic_menu_camera"/>
+
+    <item android:title="Frag 3"
+        android:id="@+id/menu_frag3"
+        android:icon="@android:drawable/ic_menu_camera"/>
+
+</menu>
