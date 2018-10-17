@@ -1,0 +1,7 @@
+# Mybooks2
+
+O Projeto Mybooks tem três telas: Biblioteca em geral: onde fica todos os livros, 
+                                  Livros Para Ler: onde o cliente vai adicionar os livros para ler,
+                                  Livros Lidos: onde o cliente vai adicionar os livros que ja leu,
+                                  O Sinal de +: serve para o cliente cadastrar novos livros para a Biblioteca em geral.
+                                  Tem dois icones para apagar o livro e editar o livro.
